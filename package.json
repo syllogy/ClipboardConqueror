@@ -16,7 +16,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^1.6.0",
+    "axios": "^1.7.4",
     "clipboard-event": "^1.6.0",
     "copy-paste": "^1.5.3",
     "node-notifier": "^10.0.1",
